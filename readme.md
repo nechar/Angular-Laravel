@@ -45,6 +45,7 @@ Open a new terminal and build the project into the public directory of laravel-m
 ```sh
 $ ng build --base-href http://localhost:8000/app/
 ```
+Note to remember: In case you run "ng serve" any time later, the final build inside laravel-module/public/app/ folder will be deleted. So, make your you build project if that happens.
 
 
 ### Setup Laravel Project:
