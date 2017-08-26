@@ -29,11 +29,6 @@ Install node dependencies
 $ npm install
 ```
 
-Build the project into the public directory of laravel-module. (Don't miss the final slash)
-```sh
-$ ng build --base-href http://localhost:8000/app/
-```
-
 Run the angular server (Optional: required during development only)
 ```sh
 $ ng serve
@@ -44,6 +39,12 @@ See check to see if it works in the browser (Optional: required during developme
 
 [http://localhost:4200](http://localhost:4200/)
 
+
+
+Open a new terminal and build the project into the public directory of laravel-module. (Don't miss the final slash)
+```sh
+$ ng build --base-href http://localhost:8000/app/
+```
 
 
 ### Setup Laravel Project:
