@@ -3,13 +3,16 @@
 
 ### Key features
 
+ * Step by step setup guide (Inculding some useful hints)
  * Non destructive Authentication in Laravel
  * Non destructive TS-Lint in Angular 
  * Angular Version 4.3
  * Laravel Version 5.5
+ * Video tutorial available on youtube on how this project was created. So you know what exactly you need to modify in order to meet your project requirements.
  * Easy to setup
  * Laravel and Angular project seperated (Moduled)
  * Backend developer and frontend can work completely isolated from each other.
+ * Works with any angular theme from themeforest.
 
 ### Setup Angular Project:
 
