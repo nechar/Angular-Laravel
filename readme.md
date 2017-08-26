@@ -1,23 +1,23 @@
 # Angular and Laravel Together
 This project is the final outcome of my video tutorial on how to use Angular and Laravel together.
-So make sure you watch that video from the following link to make the most of of this package.
+So make sure you watch that video from the following link to make the most out of this package.
 [https://youtu.be/97BggEw0dJI](https://youtu.be/97BggEw0dJI)
 
 ### Key features
 
- * Step by step setup guide (Inculding some useful hints)
- * Non destructive Authentication in Laravel
- * Non destructive TS-Lint in Angular 
+ * Step by step setup guide (Including some useful hints)
+ * Non-destructive Authentication in Laravel
+ * Non-destructive TS-Lint in Angular 
  * Cross-Origin Resource Sharing already enabled
  * Angular Version 4.3
  * Laravel Version 5.5
  * Video tutorial available on youtube on how this project was created. So you know what exactly you need to modify in order to meet your project requirements.
  * Easy to setup
- * Laravel and Angular project seperated (Moduled)
- * Backend developer and frontend can work completely isolated from each other.
- * Works with any angular theme from themeforest.
+ * Laravel and Angular project separated(Modouled)
+ * Backend developer and front-end can work completely isolated from each other.
+ * Works with any angular theme from the Themeforest.
 
-####After you watch the video mentioned above, please the follow the following steps to setup the project in your machine.
+####After you watch the video mentioned above, please the follow the following steps to setup the project on your machine.
 
 ### Setup Angular Project:
 
@@ -43,7 +43,7 @@ $ ng serve
 ```
 Do not close this terminal
 
-See check to see if it works in the browser (Optional: It is required during frontend development only)
+See check to see if it works in the browser (Optional: It is required during front-end development only)
 
 [http://localhost:4200](http://localhost:4200/)
 
