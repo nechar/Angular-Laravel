@@ -99,6 +99,9 @@ Create your first user from registration page
 
 
 Congractulations have completed the project setup.
+The following command is the most important command that you might want to use over and over again after any modification in angular.
+So, make sure you copy this command in a safe place.
+During production, your will need to change the URL to whatever your URL is with prefix /app/
 Every time you make any changes to the angular files, make sure your build the project using the following command.
 (Don't miss the final slash)
 ```sh
