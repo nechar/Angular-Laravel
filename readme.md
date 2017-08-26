@@ -8,7 +8,7 @@ So make sure you watch that video from the following link to make the most of of
  * Step by step setup guide (Inculding some useful hints)
  * Non destructive Authentication in Laravel
  * Non destructive TS-Lint in Angular 
- * Cross-Origin Resource Sharing already Enabled
+ * Cross-Origin Resource Sharing already enabled
  * Angular Version 4.3
  * Laravel Version 5.5
  * Video tutorial available on youtube on how this project was created. So you know what exactly you need to modify in order to meet your project requirements.
