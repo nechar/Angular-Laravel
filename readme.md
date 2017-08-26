@@ -38,6 +38,7 @@ Run the angular server (Optional: required during development only)
 ```sh
 $ ng serve
 ```
+Do not close this terminal
 
 See check to see if it works in the browser (Optional: required during development only)
 
@@ -47,9 +48,9 @@ See check to see if it works in the browser (Optional: required during developme
 
 ### Setup Laravel Project:
 
-Go to laravel-module
+Open a new Terminal and go to laravel-module
 ```sh
-$ cd ../laravel-module
+$ cd /laravel-module
 ```
 
 Install composer dependencies
