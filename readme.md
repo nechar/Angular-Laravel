@@ -17,9 +17,9 @@ So make sure you watch that video from the following link to make the most of of
  * Backend developer and frontend can work completely isolated from each other.
  * Works with any angular theme from themeforest.
 
-### Setup Angular Project:
+####After you watch the video mentioned above, please the follow the following steps to setup the project in your machine.
 
-After you watch the video, please the following guidelines to setup the project in your machine.
+### Setup Angular Project:
 
 Clone this project
 ```sh
