@@ -1,0 +1,63 @@
+# Laravel ignore files
+/laravel-module/node_modules
+/laravel-module/public/hot
+/laravel-module/public/storage
+/laravel-module/storage/*.key
+/laravel-module/vendor
+/laravel-module/.idea
+/laravel-module/.vagrant
+/laravel-module/Homestead.json
+/laravel-module/Homestead.yaml
+/laravel-module/npm-debug.log
+/laravel-module/yarn-error.log
+/laravel-module/.env
+
+#Optional
+/laravel-module/public/app
+
+
+
+# Angular files
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/angular-module/dist
+/angular-module/tmp
+/angular-module/out-tsc
+
+# dependencies
+/angular-module/node_modules
+
+# IDEs and editors
+/angular-module/.idea
+/angular-module/.project
+/angular-module/.classpath
+/angular-module/.c9/
+/angular-module/*.launch
+/angular-module/.settings/
+/angular-module/*.sublime-workspace
+
+# IDE - VSCode
+/angular-module/.vscode/*
+/angular-module/!.vscode/settings.json
+/angular-module/!.vscode/tasks.json
+/angular-module/!.vscode/launch.json
+/angular-module/!.vscode/extensions.json
+
+# misc
+/angular-module/.sass-cache
+/angular-module/connect.lock
+/angular-module/coverage
+/angular-module/libpeerconnection.log
+/angular-module/npm-debug.log
+/angular-module/testem.log
+/angular-module/typings
+/angular-module/yarn-error.log
+
+# e2e
+/angular-module/e2e/*.js
+/angular-module/e2e/*.map
+
+# System Files
+/angular-module/.DS_Store
+/angular-module/Thumbs.db
