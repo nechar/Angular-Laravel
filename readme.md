@@ -1,5 +1,6 @@
 # Angular and Laravel Together
-
+This project is the final outcome of my tutorial video on how to use Angular and Laravel together.
+So make sure you watch that video before your come here.
 
 ### Key features
 
@@ -38,7 +39,7 @@ $ ng serve
 ```
 Do not close this terminal
 
-See check to see if it works in the browser (Optional: required during development only)
+See check to see if it works in the browser (Optional: It is required during frontend development only)
 
 [http://localhost:4200](http://localhost:4200/)
 
@@ -106,8 +107,6 @@ Congractulations have completed the project setup.
 The following command is the most important command that you might want to use over and over again after any modification in angular.
 So, make sure you copy this command in a safe place.
 During production, your will need to change the URL to whatever your URL is with prefix /app/
-Every time you make any changes to the angular files, make sure your build the project using the following command.
-(Don't miss the final slash)
 ```sh
 $ ng build --base-href http://localhost:8000/app/
 ```
