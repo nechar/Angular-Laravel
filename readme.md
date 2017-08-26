@@ -53,7 +53,7 @@ Open a new terminal and build the project into the public directory of laravel-m
 ```sh
 $ ng build --base-href http://localhost:8000/app/
 ```
-Note to remember: In case you run "ng serve" any time later, the final build inside laravel-module/public/app/ folder will be deleted. So, make your you build project if that happens.
+Note to remember: In case you run "ng serve" any time later, the final build inside laravel-module/public/app/ folder will be deleted. So, make that you build the project again if that happens.
 
 
 ### Setup Laravel Project:
@@ -107,10 +107,10 @@ Create your first user from registration page
 [http://localhost:8000/register](http://localhost:8000/register)
 
 
-Congractulations have completed the project setup.
+Congratulations, you have sucessfully completed the project setup.
 The following command is the most important command that you might want to use over and over again after any modification in angular.
 So, make sure you copy this command in a safe place.
-During production, your will need to change the URL to whatever your URL is with prefix /app/
+During production, you will need to change the URL to whatever your URL is with a prefix /app/
 ```sh
 $ ng build --base-href http://localhost:8000/app/
 ```
