@@ -12,6 +12,13 @@
  * Backend developer and frontend can work completely isolated from each other.
 
 ### Setup Angular Project:
+
+Clone this project
+```sh
+$ git clone https://github.com/nechar/Angular-Laravel.git
+```
+ 
+### Setup Angular Project:
 Open a terminal or command prompt and go to angular-module
 ```sh
 $ cd Angular-Laravel/angular-module
