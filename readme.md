@@ -14,7 +14,7 @@
 ### Setup Angular Project:
 Open a terminal or command prompt and go to angular-module
 ```sh
-$ cd angular-module
+$ cd Angular-Laravel/angular-module
 ```
 
 Install node dependencies
