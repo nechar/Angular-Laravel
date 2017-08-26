@@ -1,6 +1,6 @@
 # Angular and Laravel Together
 This project is the final outcome of my video tutorial on how to use Angular and Laravel together.
-So make sure you watch that video from the following to make the most of of this package.
+So make sure you watch that video from the following link to make the most of of this package.
 [https://youtu.be/97BggEw0dJI](https://youtu.be/97BggEw0dJI)
 
 ### Key features
